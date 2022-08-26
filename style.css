@@ -10,9 +10,16 @@ body{
 header {
     background-image: url(./img/background.jpg);
     background-position: center;
-    color: #eeeeee;
     text-align: center;
-    padding: 70px;
+    color: #eeeeee;
+    padding: 30px 0px 155px 0px;
+}
+#perfil {
+    border-radius: 80px;
+    position: absolute;
+    bottom: 57%;
+    left: 44%;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.562);    
 }
 
 nav {
