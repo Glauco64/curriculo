@@ -37,7 +37,7 @@ nav {
 
 nav a {
     display: inline-block;
-    padding: 25px 180px 25px 180px;
+    padding: 25px 100px 25px 100px;
     color: #eeeeee;
     text-decoration: none;
 }
@@ -54,6 +54,38 @@ nav a:hover {
 
 #projetos img {
     padding: 30px;
+}
+
+#empresas {
+    padding: 30px;
+    background-color: black;
+    color: #eeeeee;
+    height: 300px;
+}
+
+#empresa {
+    display: inline-block;
+    padding-left: 200px;
+
+}
+
+#freelancer {
+    display: inline-block;
+    padding: 0px 0px 0px 450px;
+}
+
+#empresas img {
+    position: relative;
+    top: 70px;
+    right: 140px;
+    height: 50px;
+    width: 50px;
+}
+
+#empresas ul {
+    position: absolute;
+    right: 55px;
+    top: 1230px;
 }
 
 #cursos h2{
@@ -79,4 +111,11 @@ nav a:hover {
 #tecnologias {
     text-align: center;
     margin: 20px;
+}
+
+footer {
+    text-align: end;
+    background-color: black;
+    color: #eeeeee;
+    padding: 10px;
 }
