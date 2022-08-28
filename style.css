@@ -47,6 +47,15 @@ nav a:hover {
     color: black;
 }
 
+#projetos {
+    text-align: center;
+    padding: 30px;
+}
+
+#projetos img {
+    padding: 30px;
+}
+
 #cursos h2{
     text-align: center;
 }
