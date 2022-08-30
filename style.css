@@ -90,6 +90,14 @@ nav a:hover {
 
 #cursos h2{
     text-align: center;
+    padding-top: 30px;
+}
+
+#cursos img {
+    height: 300px;
+    padding: 30px 150px 30px 50px ;
+    position: relative;
+    left: 150px;
 }
 
 #html {
@@ -110,12 +118,15 @@ nav a:hover {
 }
 #tecnologias {
     text-align: center;
-    margin: 20px;
+    /* margin: 20px; */
+    padding: 30px;
+    background-image: url(img/background.jpg);
+    background-position: center;
 }
 
 footer {
     text-align: end;
     background-color: black;
     color: #eeeeee;
-    padding: 10px;
+    padding: 30px;
 }
